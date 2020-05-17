@@ -12,6 +12,6 @@ In the end of the run, the program returns the number of connected components an
 
 Union find data structure (UnionFind.java): Implementation of the UnionFind ADT.
 
-The MazeSolver program uses a simple data structure to solve a real-life real-life problem.
+The MazeSolver program uses a simple data structure to solve a real-life problem.
 Solving a complicated maze by a human can take a long and even unlimited time. With MazeSolver, the maze is solved in a timely and perfect way.
 
